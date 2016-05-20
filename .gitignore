@@ -1,2 +1,8 @@
 build
 .gradle
+bin
+*.lock
+*.log
+.metadata
+saves
+run
